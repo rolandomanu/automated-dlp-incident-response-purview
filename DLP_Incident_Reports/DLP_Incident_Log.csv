@@ -1,0 +1,2 @@
+﻿"incidentId","timestamp","tenant","user","fileName","recipient","policyName","ruleName","action","triageStatus"
+"DLP-INT-4821","2026-10-22 23:10:55","purviewsecops.onmicrosoft.com","rhuayamave@purviewsecops.onmicrosoft.com","confidentialxy.docx","mcardenaschalco@gmail.com","Project Alpha DLP Policy","Detect and Block Project Alpha Data","Blocked External Sharing & Remediation Logged","Completed"
